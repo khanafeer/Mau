@@ -8,5 +8,5 @@ if __name__ == '__main__':
     import sys
     app = QApplication(sys.argv)
     s = Home_Page()
-    s.show()
+    s.showMaximized()
     app.exec_()
