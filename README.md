@@ -2,7 +2,7 @@
 As Mau helped the old Egyptians, It will help you
 
 ### Usage
-Create file tokens.conf in the same directory of file (JSON) to add your own tokens
+Create file tokens.conf in the same directory of file (JSON) to add your own tokens.
 ```python
 {"meta_scan": "","abuse_ip_db": "","otx":"","whois_token": "", "vt_token": ""}
 ```
