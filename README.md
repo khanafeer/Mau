@@ -15,3 +15,6 @@ Then open the app by double click mau.exe, put the IP or URL or Hash, for more d
 \pyinstaller.exe --onefile --noconsole .\main.py
 
 ```
+
+### Download
+Go to wiki pages
