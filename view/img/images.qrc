@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="img">
+    <file>icons8-biohazard-30.png</file>
+    <file>icons8-flag-2-24.png</file>
+    <file>icons8-search-24.png</file>
+    <file>icons8-settings-64.png</file>
+    <file>Mau.ico</file>
+  </qresource>
+</RCC>
